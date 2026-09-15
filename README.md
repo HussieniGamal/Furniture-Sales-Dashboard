@@ -1,5 +1,17 @@
 # 🛋️ Furniture Sales Dashboard | Power BI
 
+## Business value at a glance
+
+**Decision:** Which customer segments, regions, and product categories deserve commercial investigation?
+
+- The published dashboard reports a customer mix of approximately **53% B2B**.
+- Alexandria leads reported regional sales, while beds lead product categories.
+- Supports reviewing corporate partnerships, product availability, and the drivers of the observed sales decline.
+
+**Inspect the work:** [Sales overview](dashboard-overview.png) · [Additional analysis](dashboard-overview-2.png) · [Insights page](key-insights.png)
+
+**Evidence boundary:** This repository contains screenshots and documentation, with an external project-package link below. Customer share is not revenue share; regional sales alone do not establish market penetration. No sales uplift or profitability improvement is claimed.
+
 A business intelligence dashboard built in **Power BI** to analyze furniture sales performance, customer behavior, regional demand, product performance, and sales trends.
 
 <p align="center">
@@ -30,7 +42,7 @@ A business intelligence dashboard built in **Power BI** to analyze furniture sal
 - Bank transfer leads payment methods at roughly **34%**, suggesting an opportunity to improve or promote digital-payment adoption.
 - **B2B customers account for about 53%** of the customer mix, supporting further focus on corporate partnerships.
 - **Alexandria records the highest sales** among the regions shown.
-- **Cairo underperforms** relative to its market size, which may warrant a closer look at competition, pricing, or marketing activity.
+- **Cairo merits further investigation** in the regional comparison. Market-size, competition, and acquisition data would be needed to explain its performance.
 - **Beds are the top-selling product category** in the dashboard.
 - Sales show a gradual decline over time, making trend monitoring and commercial-response planning important.
 
